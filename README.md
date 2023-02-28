@@ -1,8 +1,5 @@
 Hi there, I'm Rushikesh 👋
 
-
-
-- 🔭 We are hiring!!! Please contact me if you want to find a flexible and tech passion team
 - 🌱 I’m currently learning Algorithm & Data Structure.🤣
 - 👯 I’m looking to collaborate on other developers.
 - ⚡ Fun fact: I love Mathematics. Ø
