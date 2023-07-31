@@ -32,9 +32,9 @@
 
 ### Technolgies used
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![React JS](https://img.shields.io/badge/reactjs-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Next JS](https://img.shields.io/badge/nextjs-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![TailwidCSS](https://img.shields.io/badge/tailwindcss-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![React JS](https://img.shields.io/badge/reactjs-%23FF9900.svg?style=for-the-badge&logo=react&logoColor=white)
+![Next JS](https://img.shields.io/badge/nextjs-%2344A833.svg?style=for-the-badge&logo=nextjs&logoColor=white)
+![TailwidCSS](https://img.shields.io/badge/tailwindcss-%23039BE5.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
 ### Visitor Count
