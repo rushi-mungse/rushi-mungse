@@ -37,7 +37,7 @@
 ![TailwidCSS](https://img.shields.io/badge/tailwindcss-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 <p align="center">
-  <img src="https://github.com/midnightbot/rushi-mungse/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/rushi-mungse/rushi-mungse/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 ### Visitor Count
